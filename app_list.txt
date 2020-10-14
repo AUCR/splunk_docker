@@ -1,0 +1,168 @@
+# Splunk Install Version 1-7
+
+# Cisco Security Suite
+# https://splunkbase.splunk.com/app/525/release/3.1.2/download
+
+# CrowdStrike Falcon Intelligence Add-on
+# https://splunkbase.splunk.com/app/3944/release/1.0.1/download
+
+# Splunk Machine Learning Toolkit
+# https://splunkbase.splunk.com/app/2890/release/5.2.0/download
+
+# Fortinet FortiGate App for Splunk (Splunk 1.5 version)
+# https://splunkbase.splunk.com/app/2800/release/1.5.1/download
+
+# Splunk Add-on for Microsoft Office 365
+# https://splunkbase.splunk.com/app/4055/release/2.0.2/download
+
+# Imperva AppSecurity View
+# https://splunkbase.splunk.com/app/3507/release/2.1.0/download
+# https://splunkbase.splunk.com/app/3310/release/1.3.1/download
+
+# Splunk Add-on for Imperva SecureSphere WAF
+# https://splunkbase.splunk.com/app/2874/release/1.0.1/download
+
+# Splunk Add-on for Kafka
+https://splunkbase.splunk.com/app/2935/release/1.2.0/download
+
+# Splunk Add-On for Microsoft Sysmon
+https://splunkbase.splunk.com/app/1914/release/10.6.2/download
+
+# Splunk App for Microsoft Exchange
+https://splunkbase.splunk.com/app/1660/release/4.0.1/download
+
+# Splunk Add-on for Microsoft SQL Server
+https://splunkbase.splunk.com/app/2648/release/1.0.4/download
+
+# Splunk Add-on for MySQL
+https://splunkbase.splunk.com/app/2848/release/2.0.2/download
+
+# Splunk Add-on for Nginx
+https://splunkbase.splunk.com/app/3258/release/2.0.2/download
+
+# Splunk Add-on for Zeek aka Bro
+https://splunkbase.splunk.com/app/1617/release/4.0.0/download
+
+# Splunk App for AWS
+https://splunkbase.splunk.com/app/1274/release/6.0.1/download
+
+# Splunk App for Windows Infrastructure
+https://splunkbase.splunk.com/app/1680/release/2.0.1/download
+
+# Fortinet FortiGate Add-On for Splunk
+# https://splunkbase.splunk.com/app/2846/release/1.6.2/download
+
+# Monitoring Docker - Metrics and Log Forwarding
+https://splunkbase.splunk.com/app/3723/release/5.15.300/download
+
+# Splunk Add-on for Symantec Blue Coat ProxySG
+# https://splunkbase.splunk.com/app/2758/release/3.6.0/download
+
+# Splunk Add-on for Cisco ASA
+# https://splunkbase.splunk.com/app/1620/release/4.0.2/download
+
+# Splunk Add-on for Microsoft IIS
+https://splunkbase.splunk.com/app/3185/release/1.0.1/download
+
+# Splunk Add-on for Microsoft Juniper
+https://splunkbase.splunk.com/app/2847/release/1.4.0/download
+
+# Splunk Add-on for Nagios Core
+# https://splunkbase.splunk.com/app/2703/release/1.1.0/download
+
+# Splunk Add-on for ISC BIND
+https://splunkbase.splunk.com/app/2876/release/1.0.0/download
+
+# VictorOps For Splunk
+# https://splunkbase.splunk.com/app/3546/release/1.0.32/download
+
+# Rapid7 Nexpose Technology Add-On for Splunk
+# https://splunkbase.splunk.com/app/3457/release/1.2.0/download
+
+# Python for Scientific Computing (for Linux 64-bit)
+https://splunkbase.splunk.com/app/2882/release/2.0.2/download
+
+# Windows DNS Logs Analytics
+https://splunkbase.splunk.com/app/3012/release/1.0/download
+
+# Splunk Metrics Workspace
+https://splunkbase.splunk.com/app/4192/release/1.1.9/download
+
+# Splunk Datasets Add-on
+https://splunkbase.splunk.com/app/3245/release/1.0/download
+
+# Splunk DB Connect
+https://splunkbase.splunk.com/app/2686/release/3.4.0/download
+
+# Cisco Networks Add-on for Splunk Enterprise
+# https://splunkbase.splunk.com/app/1467/release/2.6.0/download
+# Cisco Networks App for Splunk Enterprise
+# https://splunkbase.splunk.com/app/1352/release/2.5.8/download
+# Splunk Add-on for Cisco FireSIGHT
+# https://splunkbase.splunk.com/app/1808/release/3.3.2/download
+# Splunk for Cisco Identity Services (ISE)
+# https://splunkbase.splunk.com/app/1808/release/2.1.0/download
+# Splunk Add-on for Citrix NetScaler
+# https://splunkbase.splunk.com/app/2770/release/7.0.2/download
+
+# TA-pfsense
+https://splunkbase.splunk.com/app/1527/release/2.2.1/download
+
+# TA for Symantec Endpoint Protection (syslog) 
+# https://splunkbase.splunk.com/app/3121/release/0.1.1/download
+
+# Splunk TA for Suricata
+# https://splunkbase.splunk.com/app/2760/release/2.3.3/download
+
+# TA for Microsoft Windows Defender
+https://splunkbase.splunk.com/app/3734/release/1.0.6/download
+
+# Proofpoint Email Security Add-On for Splunk
+# https://splunkbase.splunk.com/app/3080/release/1.0.8/download
+
+# FireEye Add-on for Splunk Enterprise
+# https://splunkbase.splunk.com/app/1904/release/3.1.1/download
+
+# FireEye Helix
+# https://splunkbase.splunk.com/app/3737/release/3737/1.0.1/download
+ 
+# Network Toolkit
+https://splunkbase.splunk.com/app/3491/release/1.5.1/download
+
+# Splunk Health Assistant Add-on
+# https://splunkbase.splunk.com/app/4603/release/1.1/download
+
+# DUO Log Add-on for Splunk
+# https://splunkbase.splunk.com/app/3194/release/1.2.2/download
+
+# Version 8+
+
+# CrowdStrike apps
+# https://splunkbase.splunk.com/app/5082/release/2.0.5/download
+# https://splunkbase.splunk.com/app/5083/release/2.0.3/download
+# https://splunkbase.splunk.com/app/5094/release/2.0.3/download
+
+# Palo Alto Networks App for Splunk
+# https://splunkbase.splunk.com/app/491/
+
+# Splunk Add-on for Apache Web Server
+https://splunkbase.splunk.com/app/3186/release/2.0.0/download
+
+# Splunk Add-on for Unix and Linux 
+https://splunkbase.splunk.com/app/833/release/8.2.0/download
+
+# Splunk App for Apache Web Server
+https://splunkbase.splunk.com/app/3186/release/2.0.0/download
+
+
+# Elasticsearch Data Integrator - Modular Input
+https://splunkbase.splunk.com/app/4175/release/2.0.2/download
+
+# Splunk Security Essentials
+https://splunkbase.splunk.com/app/3435/release/3.2.0/download
+
+# Splunk App for Stream
+https://splunkbase.splunk.com/app/3435/release/7.3.0/download
+
+# Aruba ClearPass App for Splunk
+# https://splunkbase.splunk.com/app/5086/release/3.1/download

@@ -1,0 +1,29 @@
+version: "3.7"
+
+networks:
+  splunknet:
+    driver: bridge
+    attachable: true
+
+services:
+  so1:
+    networks:
+      splunknet:
+        aliases:
+          - splunk.aucr.local
+    image: ${SPLUNK_IMAGE:-splunk/splunk:latest}
+    command: start
+    hostname: splunk.aucr.local
+    container_name: aucrso1
+    env_file:
+      - /opt/splunk/splunk.env
+    ports:
+      - 8000:8000
+      - 9997:9997
+      - 8088:8088
+      - 1514:1514
+    volumes:
+      - /opt/splunk/etc:/opt/splunk/etc
+      - /opt/splunk/var:/opt/splunk/var
+      - /opt/splunk/plugin:/opt/splunk/plugin
+
