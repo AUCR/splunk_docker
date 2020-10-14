@@ -32,7 +32,7 @@ https://splunkbase.splunk.com/app/1914/release/10.6.2/download
 https://splunkbase.splunk.com/app/1660/release/4.0.1/download
 
 # Splunk Add-on for Microsoft SQL Server
-https://splunkbase.splunk.com/app/2648/release/1.0.4/download
+https://splunkbase.splunk.com/app/2648/release/1.4.0/download
 
 # Splunk Add-on for MySQL
 https://splunkbase.splunk.com/app/2848/release/2.0.2/download
@@ -162,7 +162,7 @@ https://splunkbase.splunk.com/app/4175/release/2.0.2/download
 https://splunkbase.splunk.com/app/3435/release/3.2.0/download
 
 # Splunk App for Stream
-https://splunkbase.splunk.com/app/3435/release/7.3.0/download
+https://splunkbase.splunk.com/app/1809/release/7.3.0/download
 
 # Aruba ClearPass App for Splunk
 # https://splunkbase.splunk.com/app/5086/release/3.1/download
